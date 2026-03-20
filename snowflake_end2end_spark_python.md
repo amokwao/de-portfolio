@@ -10,7 +10,7 @@ This portfolio demonstrates end-to-end data engineering experience across struct
 
 Built a batch pipeline to ingest structured employee data from internal stage files into a raw layer, transform it into analytics-ready models, and run workforce analytics.
 
-Detailed project walkthrough: [Mini Project 1](mini_project_1.md)
+Detailed project walkthrough: [Mini Project 1](snwflk_mini_project_1.md)
 
 #### Project 1 highlights
 
@@ -28,7 +28,7 @@ Detailed project walkthrough: [Mini Project 1](mini_project_1.md)
 
 Developed a semi-structured ingestion pipeline that loads JSON events into VARIANT columns, then flattens nested structures into relational tables for BI queries.
 
-Detailed project walkthrough: [Mini Project 2](mini_project_2.md)
+Detailed project walkthrough: [Mini Project 2](snwflk_mini_project_2.md)
 
 #### Project 2 highlights
 
@@ -46,7 +46,7 @@ Detailed project walkthrough: [Mini Project 2](mini_project_2.md)
 
 Implemented multi-level JSON flattening for hierarchical company -> region -> product data and produced comparative sales analytics.
 
-Detailed project walkthrough: [Mini Project 3](mini_project_3.md)
+Detailed project walkthrough: [Mini Project 3](snwflk_mini_project_3.md)
 
 #### Project 3 highlights
 
