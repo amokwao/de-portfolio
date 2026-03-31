@@ -57,7 +57,11 @@ This repository serves as a demonstration of my ability to design, build, and do
 
 ## **📫 Contact**
 
+- **Name:** Godwin Amo-Kwao, PhD
+- **Current Focus:** Data Engineering Transition
+  
 If you'd like to connect or discuss any project in this portfolio:
 
-- **LinkedIn:** *`(https://www.linkedin.com/in/gak-data-systems-engineer)`*  
-- **GitHub:** `[Github/amokwao](https://github.com/amokwao/de-portfolio)`  
+- [**LinkedIn:**](https://www.linkedin.com/in/gak-data-systems-engineer)  
+- [**GitHub/amokwao:**](https://github.com/amokwao/de-portfolio)  
+- [**email**](mailto:amokwao@outlook.com)
