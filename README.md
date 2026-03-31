@@ -15,6 +15,17 @@ A curated collection of end‑to‑end data engineering projects demonstrating s
 *(I can help you fill this out once you list your actual projects.)*
 
 --- -->
+## 📂 Repository Structure (Branches)
+
+Each branch represents a deep dive into a specific data engineering vertical:
+
+| Branch | Content | Key Skills |
+| :--- | :--- | :--- |
+| [**cloud_dwh**](https://github.com/amokwao/de-portfolio/tree/cloud_dwh) | Core Python Logic | OOP, functional programming, data structures. |
+| [**bi_analytics**](https://github.com/amokwao/de-portfolio/tree/bi_analytics) | BI Analytics | Dashboards and statistical processing. |
+| [**sql_python**](https://github.com/amokwao/de-portfolio/tree/sql_python) | Database Management | Complex Joins, CTEs, Query Optimization, Pandas, NumPy |
+| [**ai**](https://github.com/amokwao/de-portfolio/tree/ai) | LLM & Automation | Integrating AI models into data workflows. |
+
 
 ## **🧰 Skills Demonstrated**
 
