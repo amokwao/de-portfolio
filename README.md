@@ -5,15 +5,6 @@ A curated collection of end‑to‑end data engineering projects demonstrating s
 ---
 
 <!-- ## **📂 Project Index**
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **Project 1** | Short description of the problem and solution | SQL, Python, etc. |
-| **Project 2** | Short description of the problem and solution | dbt, Snowflake, etc. |
-| **Project 3** | Short description of the problem and solution | Airflow, APIs, etc. |
-
-*(I can help you fill this out once you list your actual projects.)*
-
 --- -->
 ## 📂 Repository Structure (Branches)
 
